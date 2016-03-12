@@ -1,3 +1,5 @@
+# [WARNING] This repository will be replaced by [Fhirbase 2](https://github.com/fhirbase/fhirbase-plv8)
+
 # FHIRbase
 
 ![fhirbase](https://avatars3.githubusercontent.com/u/6482975?v=3&s=400)
